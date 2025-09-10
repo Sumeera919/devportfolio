@@ -64,9 +64,9 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "XYZ Company",
+      company: "Bebo Technologies",
       title: "Software Engineer",
-      dateRange: "2020 - 2022",
+      dateRange: "2022- 2023",
       bullets: [
         "Developed and maintained web applications using Java, JavaScript, and SQL.",
         "Optimized backend queries, reducing load times by 30%.",
@@ -77,7 +77,7 @@ export const siteConfig = {
     {
       company: "Freelance/Personal Projects",
       title: "Full Stack Developer",
-      dateRange: "2022 - Present",
+      dateRange: "2023 - 2024",
       bullets: [
         "Built multiple full-stack applications with React, Node.js, and MongoDB.",
         "Designed responsive UIs and implemented REST APIs.",
@@ -88,9 +88,9 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "Your University",
-      degree: "B.Tech in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Swami Vivekanand Institute of Engineering and Technology",
+      degree: "B.Tech in Computer Science and Engineering",
+      dateRange: "2018 - 2022",
       achievements: [
         "Key Subjects: Data Structures, Algorithms, Database Systems, Web Development",
         "Graduated with strong academic performance",
@@ -98,8 +98,8 @@ export const siteConfig = {
       ],
     },
     {
-      school: "Online Certifications",
-      degree: "Full Stack Development & Java Programming",
+      school: "GeeksforGeeks",
+      degree: "MERN Full Stack Development",
       dateRange: "2019 - 2023",
       achievements: [
         "Completed multiple certifications in Java, Web Development, and Databases",
