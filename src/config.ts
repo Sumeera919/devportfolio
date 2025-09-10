@@ -5,7 +5,7 @@ export const siteConfig = {
   accentColor: "#1d4ed8",
   social: {
     email: "bhatsumeera919@gmail.com",
-    linkedin: "www.linkedin.com/in/sumeera919",
+    linkedin: "https://.linkedin.com/in/sumeera919",
     github: "https://github.com/Sumeera919",
   },
   aboutMe:
