@@ -77,7 +77,7 @@ export const siteConfig = {
     {
       company: "Freelance/Personal Projects",
       title: "Full Stack Developer",
-      dateRange: "2023 - 2024",
+      dateRange: "2023 - Present",
       bullets: [
         "Built multiple full-stack applications with React, Node.js, and MongoDB.",
         "Designed responsive UIs and implemented REST APIs.",
@@ -100,7 +100,7 @@ export const siteConfig = {
     {
       school: "GeeksforGeeks",
       degree: "MERN Full Stack Development",
-      dateRange: "2019 - 2023",
+      dateRange: "2025",
       achievements: [
         "Completed multiple certifications in Java, Web Development, and Databases",
         "Built 10+ portfolio projects as part of coursework",
