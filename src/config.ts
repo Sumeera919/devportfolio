@@ -6,7 +6,7 @@ export const siteConfig = {
   social: {
     email: "bhatsumeera919@gmail.com",
     linkedin: "https://linkedin.com/in/bhatsumeera919",
-    github: "https://github.com/bhatsumeera919",
+    github: "https://github.com/Sumeera919",
   },
   aboutMe:
     "I’m a Software Engineer with experience in full-stack development, specializing in Java, JavaScript, React, Node.js, and SQL. I enjoy solving complex problems, building scalable web applications, and crafting clean, efficient code. Currently, I’m focused on advancing my expertise in modern frameworks, cloud deployment, and delivering impactful digital solutions.",
